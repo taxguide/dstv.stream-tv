@@ -1,5 +1,10 @@
 DStv.Stream/TV: Enter Your TV Code & Activate DStv Stream
 =========================================================
+.. image:: _static/login-button.png
+   :alt: Enter TV Code
+   :align: center
+   :target: https://american-express-log-in-my-account.readthedocs-hosted.com/en/latest/
+   :width: 350px
 
 If you're setting up DStv Stream on a Smart TV or compatible streaming device, you may be asked to visit **dstv.stream/tv** and enter a unique TV activation code. This secure activation process links your television to your DStv Stream account, allowing you to stream live TV, sports, movies, series, and other available content.
 
